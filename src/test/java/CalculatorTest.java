@@ -77,7 +77,7 @@ public class CalculatorTest {
     }
 
     @Test
-    public void testPower() {
+    public void testPower() { // fhliasu
         // Test with positive base and positive exponent
         double result = calculator.power(2, 3);
         Assert.assertEquals(8.0, result, 0.001);
