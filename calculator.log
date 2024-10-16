@@ -1,0 +1,5 @@
+2024-09-26 19:34:24.010 [main] INFO  org.example.Main - Calculating natural logarithm of: 2.0
+2024-09-26 19:34:28.064 [main] INFO  org.example.Main - Calculating factorial of: 34
+2024-09-26 19:34:35.594 [main] INFO  org.example.Main - Calculating factorial of: 6
+2024-09-26 19:34:45.671 [main] INFO  org.example.Main - Calculating square root of: 25.0
+2024-09-26 19:34:47.509 [main] INFO  org.example.Main - Exiting the calculator.
